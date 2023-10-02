@@ -7,3 +7,7 @@
 - 💼 I am currently pursuing a doctoral program at the Telfer School of Management, University of Ottawa.
 
 - 🏏 I love cricket!
+
+Updates:
+
+- I have published a research paper in the PLOS ONE journal titled "Using 10-K Text to Assess COVID-Related Corporate Disclosure". [Link to paper.](https://doi.org/10.1371/journal.pone.0283138)
