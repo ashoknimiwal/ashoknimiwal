@@ -1,13 +1,17 @@
-### Hello!! I'm Ashok.
+### Hello, I'm Ashok
 
-- 🔍 I am working at the intersection of finance and NLP, presently dedicated to a project aimed at extracting signals related to diverse facets of supply chain management (including Downstream Supply Chain/Marketing, Internal Operations/Production, and Supply/Sourcing) from earnings call transcripts.
+PhD candidate at the Telfer School of Management, University of Ottawa, working at the intersection of finance and natural language processing.
 
-- 🎓 I completed my undergraduate studies at the Indian Institute of Technology, Kharagpur.
+My research applies neural networks and traditional textual analysis across two domains of text: corporate disclosures such as earnings call, annual filings etc. to study corporate culture, supply chain dynamics, and market behavior; and social media such as Reddit and X to surface policy effectiveness, their impacts and enable consumer social listening at scale.
 
-- 💼 I am currently pursuing a doctoral program at the Telfer School of Management, University of Ottawa.
+B.Tech + M.Tech, IIT Kharagpur (2022). 
 
-- 🏏 I love cricket!
+I have published in Information Systems Frontiers, International Journal of Productivity and Performance Management, and PLOS ONE with a paper currently under review at Information Systems Frontiers. For the full list, visit [ashoknimiwal.github.io](https://ashoknimiwal.github.io) or [Google Scholar](https://scholar.google.ca/citations?hl=en&authuser=1&user=gGUCRcUAAAAJ).
 
-Updates:
+When I'm not doing research, you'll find me playing or following cricket 🏏 :D
 
-- I have published a research paper in the PLOS ONE journal titled "Using 10-K Text to Assess COVID-Related Corporate Disclosure". [Link to paper.](https://doi.org/10.1371/journal.pone.0283138)
+---
+
+### Find me
+
+[🌐 Website](https://ashoknimiwal.github.io) &nbsp;·&nbsp; [LinkedIn](https://in.linkedin.com/in/ashok-kumar-81b450197) &nbsp;·&nbsp; [X](https://x.com/nimiwal_ashok) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.ca/citations?hl=en&authuser=1&user=gGUCRcUAAAAJ)
